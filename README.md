@@ -1,1 +1,1 @@
-My first readme
+Baby steps in coding
